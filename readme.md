@@ -12,7 +12,7 @@ https://roopya-ai.streamlit.app/
 
 ---
 
-## 📊 Project Overview
+##  Project Overview
 
 Roopya AI automates loan eligibility decisions using:
 - Credit scoring model (ML-based)
@@ -25,7 +25,7 @@ It not only predicts approval but also explains **why a decision was made**.
 
 ---
 
-## 🧠 Key Features
+##  Key Features
 
 ### 🔹 1. Credit Decision Engine
 - Predicts: **Approved / Rejected**
@@ -156,6 +156,8 @@ streamlit run frontend/app.py
 ```bash
 deactivate
 ```
+---
+
 ## 📈 ML Pipeline
 
 1. Data Preprocessing
@@ -180,7 +182,7 @@ deactivate
 
 ---
 
-## 🎯 Output
+##  Output
 
 - Loan Decision: **Approved / Rejected**
 - Confidence Score (%)
@@ -191,7 +193,7 @@ deactivate
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - SHAP Explainability Integration
 - What-If Scenario Simulator
@@ -204,13 +206,13 @@ deactivate
 ## 📌 Use Case
 
 This project simulates real-world systems used in:
-- Banks 🏦
+- Banks 
 - NBFCs
 - Fintech startups
 - Credit underwriting platforms
 
 ---
-## 🎯 Project Highlights
+##  Project Highlights
 
 - Real-time loan approval prediction system
 - Explainable AI decision engine
