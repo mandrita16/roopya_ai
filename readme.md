@@ -133,6 +133,12 @@ It not only predicts approval but also explains **why a decision was made**.
   
 ---
 
+<img width="1920" height="1080" alt="Screenshot (630)" src="https://github.com/user-attachments/assets/2f5db294-1fa5-4c39-8829-fbb0dbbb532b" />
+<img width="1920" height="1080" alt="Screenshot (631)" src="https://github.com/user-attachments/assets/0e346f57-cf1c-4378-b6d0-37dcece5efad" />
+<img width="1920" height="1080" alt="Screenshot (632)" src="https://github.com/user-attachments/assets/a779ae43-32d2-4573-9af4-5302565f3b93" />
+<img width="1920" height="1080" alt="Screenshot (633)" src="https://github.com/user-attachments/assets/fbe65e9e-0503-4cfe-b4df-626028480c90" />
+<img width="1920" height="1080" alt="Screenshot (635)" src="https://github.com/user-attachments/assets/1216e616-29b2-465c-95cd-bd2127997285" />
+
 
 ## 📂 Project Structure
 ```
