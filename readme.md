@@ -90,7 +90,7 @@ It not only predicts approval but also explains **why a decision was made**.
 ---
 
 ## 📂 Project Structure
-'''
+```
 roopya_ai/
 │
 ├── frontend/
@@ -122,7 +122,7 @@ roopya_ai/
 ├── README.md
 ├── .gitignore
 └── LICENSE
-'''
+```
 ---
 
 ## 📈 ML Pipeline
