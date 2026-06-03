@@ -498,8 +498,4 @@ if st.button(
             "Review the highlighted risk factors before reconsidering the application."
         )
 
-    # -----------------------
-    # Approval Trajectory (2D or 3D)
-    # -----------------------
-
-    st.subheader(" Approval Trajectory Analysis")
+    
