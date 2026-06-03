@@ -124,7 +124,38 @@ roopya_ai/
 └── LICENSE
 ```
 ---
+## ⚙️ Setup & Installation
 
+### 1. Clone the Repository
+```bash
+git clone https://github.com/mandrita16/roopya_ai.git
+cd roopya_ai
+```
+### 2. Create Virtual Environment (Recommended)
+```bash
+python -m venv venv
+```
+Activate it:
+Windows:
+```bash
+venv\Scripts\activate
+```
+Mac/Linux:
+```bash
+source venv/bin/activate
+```
+### 3. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+### 4. Run the Application
+```bash
+streamlit run frontend/app.py
+```
+### 5. Deactivate Environment (Optional)
+```bash
+deactivate
+```
 ## 📈 ML Pipeline
 
 1. Data Preprocessing
@@ -179,7 +210,15 @@ This project simulates real-world systems used in:
 - Credit underwriting platforms
 
 ---
+## 🎯 Project Highlights
 
+- Real-time loan approval prediction system
+- Explainable AI decision engine
+- Risk scoring system (custom-built)
+- Applicant similarity (Twin model)
+- Interactive 3D approval trajectory visualization
+- 
+---
 ## 👩‍💻 Author
 
 **Mandrita Dasgupta**   
