@@ -86,8 +86,53 @@ It not only predicts approval but also explains **why a decision was made**.
 - **Data Processing:** Pandas, NumPy
 - **Visualization:** Plotly
 - **Model Storage:** Joblib
+(written in detail below)
 
 ---
+##  Machine Learning & Data Processing Stack
+
+###  Core ML Frameworks
+- scikit-learn==1.9.0 → Model training, preprocessing, classification
+- xgboost==3.2.0 → Gradient boosting models for improved accuracy
+- scipy==1.17.1 → Scientific computations and statistical operations
+- numba==0.65.1 → Performance optimization for numerical operations
+- llvmlite==0.47.0 → JIT compilation backend for numba
+
+---
+
+### 📊 Data Processing & Analysis
+- pandas==3.0.3 → Data manipulation and feature engineering
+- numpy==2.4.6 → Numerical computations and array processing
+- openpyxl==3.1.5 → Excel dataset handling (.xlsx files)
+- pyarrow==24.0.0 → Efficient data serialization and processing
+
+---
+
+### 📈 Data Visualization
+- plotly==6.7.0 → Interactive charts, risk gauges, 3D trajectory plots
+- shap==0.52.0 → Model explainability and feature importance analysis
+
+---
+
+### 🧾 Data Validation & Schema Handling
+- jsonschema==4.26.0 → Input validation and structured data checking
+- attrs==26.1.0 → Clean data structure definitions
+
+---
+
+### ⚙️ Model Utilities & Persistence
+- joblib==1.5.3 → Model saving and loading
+- cloudpickle==3.1.2 → Serialization of ML objects
+
+---
+
+### 🔄 Supporting Libraries
+- python-dateutil==2.9.0.post0 → Date handling for time-based features
+- tqdm==4.67.3 → Progress tracking during training
+- threadpoolctl==3.6.0 → Parallel processing control
+  
+---
+
 
 ## 📂 Project Structure
 ```
