@@ -8,7 +8,7 @@ It simulates real-world banking decision systems used in fintech and lending ins
 
 ## 🚀 Live Demo
 
-[https://roopya-ai.streamlit.app/]
+https://roopya-ai.streamlit.app/
 
 ---
 
